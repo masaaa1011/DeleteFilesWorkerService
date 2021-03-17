@@ -2,15 +2,15 @@
 
 ## NOTE!!!
 - this app's project templeta is y Worker Service
-- this app deletes Files you configured
-- this app runnning when you stop
+- this app deletes Files under Directory you selected
+- this app runnning until you stop
 - this app running on dotnet framework 4.8
 
 please edit config file.
 this is example.
 ~~~
-<!-- 監視パス -->
+<!-- 逶｣隕悶ヱ繧ｹ -->
 <add key="SurveillancePaths" value="Path1,Path2,Path3" />
-<!-- ポーリング待機時間[ミリ秒] -->
+<!-- 繝昴�ｼ繝ｪ繝ｳ繧ｰ蠕�讖滓凾髢甜繝溘Μ遘綻 -->
 <add key="SurveillanceSecond" value="1000" />
 ~~~
