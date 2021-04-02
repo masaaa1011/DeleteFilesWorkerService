@@ -11,6 +11,6 @@ this is example.
 ~~~
 <!-- 監視パス -->
 <add key="SurveillancePaths" value="Path1,Path2,Path3" />
-<!-- ポーリング待機時間[ミリ秒] -->
+<!-- 処理間隔[ミリ秒] -->
 <add key="SurveillanceSecond" value="1000" />
 ~~~
